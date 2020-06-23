@@ -1,3 +1,4 @@
 # Notebook
-new  spring project 
-This is a test project. I testing guides   "Accessing JPA Data with REST"
+This is a new Test Project.
+I tested guides   "Accessing JPA Data with REST"
+I used  the technology: Gradle, HTTP, Postman(for test Rest-api)
